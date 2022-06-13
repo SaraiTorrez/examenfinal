@@ -1,0 +1,38 @@
+*
+{
+    font-family: Baskerville Old Face; 
+    margin: 10px;
+    padding: 5px;
+}
+header{
+    height: 100%;
+    width: 30%;
+}
+body
+{
+    background-image:url("../ima/fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+nav
+{
+    text-align: center;
+}
+table
+{
+    background-image: url("../ima/the.png") ;
+    height: 80%;
+    width: 80%;
+}
+img
+{
+    height: 85%;
+    width: 85%;
+}
+header
+{
+    align-content: center;
+    height: 100%;
+    width: 100%;
+}

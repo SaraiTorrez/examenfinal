@@ -1,0 +1,117 @@
+*
+{
+    font-family: Baskerville Old Face; 
+    margin: 10px;
+    padding: 5px;
+}
+body
+{
+    background-image:url("../ima/fonterror.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: lightgrey;
+
+}
+section
+{
+    text-align-last: center;
+    background-color: rgb(19, 19, 87) ;
+    height: 70%;
+    width: 70%;
+    text-align: center;
+}
+img
+{
+    height: 50%;
+    width: 50%;
+    align-content: center;
+}
+header
+{
+    align-content: center;
+    height: 100%;
+    width: 100%;
+}
+nav
+{
+    text-align: center;
+    align-content: center;
+}
+
+
+}
+h2
+{
+    background-color: rgb(56, 18, 145);
+}
+h1{
+    text-align: center;
+    background-color: rgb(226, 31, 128);
+    height: 40%;
+    width: 100%;
+}
+table
+{
+    background-color: rgb(191, 221, 21);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section
+{
+    align-content: center;
+    
+    height: 70%;
+    width: 70%;
+    text-align: justify;
+}
+
+
+
+
+img
+{
+    height: 50%;
+    width: 50%;
+    align-content: center;
+}
+header
+{
+    align-content: center;
+    height: 100%;
+    width: 100%;
+}
+h2
+{
+    background-color: lightpink;
+}
+h1{
+    text-align: center;
+    background-color: lightslategrey;
+    height: 40%;
+    width: 100%;
+}
+
+section
+{
+    align-content: center;
+}
+}
